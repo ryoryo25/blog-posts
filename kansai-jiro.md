@@ -2,7 +2,7 @@
 title: '【大阪・京都】二郎系探訪記'
 coverImage: 'thumbnail.jpg'
 dates:
-  postDate: null
+  postDate: '2024-04-26T19:27:54.872119'
   updateDate: null
 ---
 
