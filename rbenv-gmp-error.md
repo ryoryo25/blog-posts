@@ -1,6 +1,6 @@
 ---
 title: 'rbenv install 3.1.2で"library gmp not found"エラーが出る'
-coverImage: '/assets/blog/rbenv-gmp-error/error-log.png'
+coverImage: 'error-log.png'
 dates:
   postDate: '2023-12-05T18:29:14.902461'
   updateDate: null
