@@ -4,6 +4,7 @@ coverImage: 'error-log.png'
 dates:
   postDate: '2023-12-05T18:29:14.902461'
   updateDate: null
+tags: ['技術系備忘録', 'Ruby']
 ---
 
 # TL;DR

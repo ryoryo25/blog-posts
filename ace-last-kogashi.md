@@ -4,6 +4,7 @@ coverImage: 'thumbnail.jpg'
 dates:
   postDate: '2024-04-30T14:05:14.544262'
   updateDate: '2024-04-30T14:09:36.376491'
+tags: ['ラーメン', '二郎系']
 ---
 
 工学院大学八王子キャンパス近くにある『[ラーメンエース](https://twitter.com/erinberryjam)』([ラーメンデータベース](https://ramendb.supleks.jp/s/53779.html))，

@@ -4,6 +4,7 @@ coverImage: null
 dates:
   postDate: '2023-10-03T20:17:02.878364'
   updateDate: '2024-03-08T17:33:28.518380'
+tags: ['技術系技防録', 'Next.js', 'TypeScript']
 ---
 
 # (どうでもいい) 背景
