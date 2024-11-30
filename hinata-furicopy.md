@@ -2,7 +2,7 @@
 title: '振りコピのすすめ 日向坂46編'
 coverImage: 'thumbnail.jpg'
 dates:
-  postDate: null
+  postDate: '2024-12-01T03:20:16.641323'
   updateDate: null
 tags: ['日向坂46']
 ---
