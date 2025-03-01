@@ -3,8 +3,8 @@ title: '【2024年版】参戦ライブ・イベントまとめ'
 coverImage: 'thumbnail.jpg'
 dates:
   postDate: '2025-03-01T09:50:09.157720'
-  updateDate: null
-tags: ['アイドル', '日向坂46', '≠ME', 'フェス']
+  updateDate: '2025-03-01T09:54:47.601017'
+tags: ['アイドル', '日向坂46', '≠ME', '櫻坂46', 'フェス']
 ---
 
 # はじめに
