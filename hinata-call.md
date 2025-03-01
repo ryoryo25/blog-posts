@@ -4,7 +4,7 @@ coverImage: 'thumbnail.jpg'
 dates:
   postDate: '2024-12-01T03:17:25.115441'
   updateDate: null
-tags: ['日向坂46']
+tags: ['アイドル', '日向坂46']
 ---
 
 # はじめに
