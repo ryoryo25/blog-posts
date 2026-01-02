@@ -22,25 +22,26 @@ tags: ['アイドル', '日向坂46', 'ライブの楽しみ方']
 
 あと、落ちサビ前の「ハッハッハー！」と落ちサビの「ピン！」「キュン！」を言いましょう (公式コールだけど言ってる人が少ないため)。
 
-<div class="video-container">
-<iframe src="//players.brightcove.net/4504957038001/HkWhLTGGO_default/index.html?videoId=6031253450001" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allow="encrypted-media"></iframe>
-</div>
+```
+video-embed: {
+  src: "//players.brightcove.net/4504957038001/HkWhLTGGO_default/index.html?videoId=6031253450001",
+  allow: "encrypted-media",
+  allowfullscreen: true
+}
+```
 
 元ページ
+
 https://www.hinatazaka46.com/s/official/news/detail/O00017
 
 ## HEY！OHISAMA！
 
 ヘイオヒはコールレクチャー動画がYouTubeにあります。
-サビは[振りコピ](/posts/hinata-furicopy/)しましょう (振り覚えるの面倒だったらいいけど)。
+サビは[振りコピ](./hinata-furicopy/)しましょう (振り覚えるの面倒だったらいいけど)。
 
-<div class="video-container">
-<iframe src="https://www.youtube.com/embed/WcOC8Xz3fAc?rel=0" title="日向坂46「HEY！OHISAMA！」コール講座" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+`youtube-embed: WcOC8Xz3fAc`
 
-<div class="video-container">
-<iframe width="100%" height="565" src="https://www.youtube.com/embed/WXJ-lBun4GA?rel=0" title="【HEY！OHISAMA！】四期生が自由にコール動画を撮ってみた。" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+`youtube-embed: WXJ-lBun4GA`
 
 # 基本のコール
 
