@@ -3,7 +3,7 @@ title: '日向坂46コール備忘録 (公式コール編)'
 coverImage: 'thumbnail.jpg'
 dates:
   postDate: '2024-12-01T03:17:25.115441'
-  updateDate: '2026-01-17T00:13:06.264337'
+  updateDate: '2026-03-16T23:19:43.075626'
 tags: ['アイドル', '日向坂46', 'ライブの楽しみ方']
 ---
 
@@ -11,7 +11,7 @@ tags: ['アイドル', '日向坂46', 'ライブの楽しみ方']
 
 日向坂のコールを基本的なテンプレコールから特殊なものまでまとめます。
 
-1. 公式コール編 (←今ここ)
+1. **公式コール編 (←今ここ)**
 2. [基本編](../hinata-call2/)
 3. [応用編](../hinata-call3/)
 
@@ -37,6 +37,24 @@ video-embed: {
 元ページ↓↓
 
 https://www.hinatazaka46.com/s/official/news/detail/O00017
+
+# 君しか勝たん
+
+しかたんはコールではありませんが、コロナ禍の楽曲のためクラップ (スティックバルーン) レクチャー動画があります。
+
+しかたんはコールするよりクラップする方が楽しいので、悲しいかな少数派ですが一緒にクラップしましょう (私がクラップしてたら一緒にクラップしてくれる周りの人たち愛してる😘)。
+
+```
+video-embed: {
+  src: "//players.brightcove.net/4504957038001/HkWhLTGGO_default/index.html?videoId=6262717252001",
+  allow: "encrypted-media",
+  allowfullscreen: true
+}
+```
+
+元ページ↓↓
+
+https://www.hinatazaka46.com/s/official/diary/detail/40016
 
 # 見たことない魔物
 
