@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e41891f2c56a4f14",
+        "id": "b4346ef917a4cb67",
         "type": "tabs",
         "children": [
           {
-            "id": "9796116d7113247f",
+            "id": "bdef01cb1e94787b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/ace-last-kogashi.md",
+                "file": "posts/hinata-call2.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "ace-last-kogashi"
+              "title": "hinata-call2"
             }
           }
         ]
@@ -177,8 +177,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9796116d7113247f",
+  "active": "bdef01cb1e94787b",
   "lastOpenFiles": [
+    "posts/hinata-call1.md",
+    "posts/hinata-call2.md",
+    "posts/ace-last-kogashi.md",
     "posts/building-blog.md",
     "README.md",
     "posts/rbenv-gmp-error.md",
@@ -188,11 +191,8 @@
     "posts/kansai-jiro.md",
     "posts/hinata-furicopy.md",
     "posts/hinata-call3.md",
-    "posts/hinata-call2.md",
-    "posts/hinata-call1.md",
     "posts/events-2025.md",
     "posts/events-2024.md",
-    "posts/ace-last-kogashi.md",
     "template/template.md",
     "template",
     "posts",
