@@ -1,10 +1,11 @@
 ---
-title: '各言語mixまとめ〜各言語表記を添えて〜'
-coverImage: 'thumbnail.jpg'
-dates:
-  postDate: '2026-01-17T03:07:55.857559'
-  updateDate: '2026-01-17T05:01:48.571078'
-tags: ['アイドル', 'mix', 'コール', 'ライブの楽しみ方']
+title: 各言語mixまとめ〜各言語表記を添えて〜
+coverImage: thumbnail.jpg
+tags:
+  - アイドル
+  - mix
+  - コール
+  - ライブの楽しみ方
 ---
 
 # はじめに

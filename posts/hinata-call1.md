@@ -1,10 +1,10 @@
 ---
-title: '日向坂46コール備忘録 (公式コール編)'
-coverImage: 'thumbnail.jpg'
-dates:
-  postDate: '2024-12-01T03:17:25.115441'
-  updateDate: '2026-03-17T00:25:36.595356'
-tags: ['アイドル', '日向坂46', 'ライブの楽しみ方']
+title: 日向坂46コール備忘録 (公式コール編)
+coverImage: thumbnail.jpg
+tags:
+  - アイドル
+  - 日向坂46
+  - ライブの楽しみ方
 ---
 
 # はじめに

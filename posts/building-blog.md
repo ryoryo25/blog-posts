@@ -1,10 +1,10 @@
 ---
-title: 'Next.jsでブログを作ってGitHub Pagesにデプロイした話'
-coverImage: null
-dates:
-  postDate: '2023-10-03T20:17:02.878364'
-  updateDate: '2024-10-23T02:12:09.271876'
-tags: ['技術系備忘録', 'Nextjs', 'TypeScript']
+title: Next.jsでブログを作ってGitHub Pagesにデプロイした話
+coverImage:
+tags:
+  - 技術系備忘録
+  - Nextjs
+  - TypeScript
 ---
 
 # (どうでもいい) 背景

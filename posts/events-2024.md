@@ -1,10 +1,12 @@
 ---
-title: '【2024年版】参戦ライブ・イベントまとめ'
-coverImage: 'thumbnail.jpg'
-dates:
-  postDate: '2025-03-01T09:50:09.157720'
-  updateDate: '2025-03-25T10:45:48.545539'
-tags: ['アイドル', '日向坂46', '≠ME', '櫻坂46', 'フェス']
+title: 【2024年版】参戦ライブ・イベントまとめ
+coverImage: thumbnail.jpg
+tags:
+  - アイドル
+  - 日向坂46
+  - ≠ME
+  - 櫻坂46
+  - フェス
 ---
 
 # はじめに

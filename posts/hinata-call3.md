@@ -1,10 +1,10 @@
 ---
-title: '日向坂46コール備忘録 (応用編)'
-coverImage: 'thumbnail.jpg'
-dates:
-  postDate: '2026-01-03T05:56:36.834761'
-  updateDate: null
-tags: ['アイドル', '日向坂46', 'ライブの楽しみ方']
+title: 日向坂46コール備忘録 (応用編)
+coverImage: thumbnail.jpg
+tags:
+  - アイドル
+  - 日向坂46
+  - ライブの楽しみ方
 ---
 
 # はじめに

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "766f961c9693d82f",
+        "id": "e41891f2c56a4f14",
         "type": "tabs",
         "children": [
           {
-            "id": "7bf2c59f91b6a14d",
+            "id": "9796116d7113247f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -175,7 +175,40 @@
   },
   "active": "737a85570b473bbf",
   "lastOpenFiles": [
-    "assets",
-    "posts"
+    "posts/rbenv-gmp-error.md",
+    "posts/ne-furicopy.md",
+    "posts/ne-call.md",
+    "posts/language-mix.md",
+    "posts/kansai-jiro.md",
+    "posts/hinata-furicopy.md",
+    "posts/hinata-call3.md",
+    "posts/hinata-call2.md",
+    "posts/hinata-call1.md",
+    "posts/events-2025.md",
+    "posts/events-2024.md",
+    "posts/building-blog.md",
+    "posts/ace-last-kogashi.md",
+    "template/template.md",
+    "template",
+    "README.md",
+    "posts",
+    "assets/blog/hinata-call1/thumbnail.jpg",
+    "assets/blog/rbenv-gmp-error/error-log.png",
+    "assets/blog/ne-furicopy/thumbnail.jpg",
+    "assets/blog/ne-call/thumbnail.jpg",
+    "assets/blog/language-mix/thumbnail.jpg",
+    "assets/blog/kansai-jiro/thumbnail.jpg",
+    "assets/blog/kansai-jiro/5-rekishi-store.jpg",
+    "assets/blog/kansai-jiro/5-rekishi-ramen.jpg",
+    "assets/blog/kansai-jiro/4-chikyukibo-store.jpg",
+    "assets/blog/kansai-jiro/4-chikyukibo-ramen.jpg",
+    "assets/blog/rbenv-gmp-error",
+    "assets/blog/ne-furicopy",
+    "assets/blog/ne-call",
+    "assets/blog/language-mix",
+    "assets/blog/kansai-jiro",
+    "assets/blog/hinata-furicopy",
+    "assets/blog/hinata-call3",
+    "assets/blog/hinata-call2"
   ]
 }
