@@ -1,0 +1,17 @@
+name: Trigger Blog Build
+
+on:
+  push:
+    branches:
+      - main  # ObsidianのVaultのメインブランチ名に合わせてください
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.BLOG_DEPLOY_TOKEN }}
+          repository: ryoryo25/blog
+          event-type: content_updated
