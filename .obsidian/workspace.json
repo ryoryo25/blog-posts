@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b4346ef917a4cb67",
+        "id": "a80a1c3bc76a384e",
         "type": "tabs",
         "children": [
           {
-            "id": "bdef01cb1e94787b",
+            "id": "24aab4c9bd34df69",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -177,10 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bdef01cb1e94787b",
+  "active": "24aab4c9bd34df69",
   "lastOpenFiles": [
-    "posts/hinata-call1.md",
     "posts/hinata-call2.md",
+    "posts/hinata-call1.md",
     "posts/ace-last-kogashi.md",
     "posts/building-blog.md",
     "README.md",
